@@ -16,8 +16,8 @@ Results
 
 ![Li](./imgs/Li_normalized.png)
 
-![Ne](./imgs/Na_normalized.png)
-
 ![Na](./imgs/Na_normalized.png)
+
+![Ne](./imgs/Ne_normalized.png)
 
 ![Hg](./imgs/Hg_normalized.png)
