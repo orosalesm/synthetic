@@ -9,3 +9,15 @@ Synthetic spectra file samples with this characteristics:
 | Ne | 5,000 | 0.3 | 1 |
 | Na | 5,000 | 0.3 | 2.0472035 |
 | Hg | 5,000 | 0.3 | 1 |
+
+Results
+
+![H](./imgs/H_normalized.png)
+
+![Li](./imgs/Li_normalized.png)
+
+![Ne](./imgs/Na_normalized.png)
+
+![Na](./imgs/Na_normalized.png)
+
+![Hg](./imgs/Hg_normalized.png)
